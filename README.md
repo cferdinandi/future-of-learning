@@ -1,4 +1,4 @@
-# The Future of Learning
+# [DEPRECATED] The Future of Learning
 
 A small collection of ideas around the future of education.
 
